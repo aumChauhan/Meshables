@@ -6,7 +6,7 @@
 
 Meshables is a community driven marketplace designed for 3D and game development assets, built for **Apple Vision Pro**. The platform provides tools for discovering, previewing, and trading assets, including 3D models, textures, and scripts. Where users can manage assets, collaborate with others, and integrate assets into their projects.
 
-🏗️ Currently under development.
+- 🏗️ Currently under development.
 
 ## Features
 
@@ -21,6 +21,19 @@ Meshables is a community driven marketplace designed for 3D and game development
 
 - Seamlessly access [Meshables](https://meshables.me) and manage your assets from any web browser.
 - Interact with your assets and manage trades directly through [Discord](https://meshables.me#discord).
+
+## AVP Preview
+
+<details>
+  <summary> Preview </summary>
+  
+  ![Simulator Screenshot - Apple Vision Pro - 2024-09-15 at 13 00 03](https://github.com/user-attachments/assets/c6643157-bcad-4ff4-86cd-814215a16e71)
+  ![Simulator Screenshot - Apple Vision Pro - 2024-09-15 at 13 00 11](https://github.com/user-attachments/assets/263424ab-aa95-46d0-8c97-4e4424e358d8)
+  ![Simulator Screenshot - Apple Vision Pro - 2024-09-15 at 13 01 16](https://github.com/user-attachments/assets/ed5bfc16-675c-447e-9cb9-301a9c964d91)
+  ![Simulator Screenshot - Apple Vision Pro - 2024-09-15 at 13 01 59](https://github.com/user-attachments/assets/6c6874b1-459c-411e-951e-73928f8c62f5)
+  ![Simulator Screenshot - Apple Vision Pro - 2024-09-15 at 13 02 18](https://github.com/user-attachments/assets/157603ac-17e8-44a7-af96-5499b5a12733)
+
+</details>
 
 ## License
 Meshables is released under the [MIT License](LICENSE).
