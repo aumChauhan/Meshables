@@ -11,10 +11,15 @@ Meshables is a community driven marketplace designed for 3D and game development
 ## Features
 
 **Asset Trading**: Securely trade 3D models, textures, and other assets within the community.
+
 **3D Model Viewer**: Preview 3D models in AR before making a purchase.
+
 **Texture Viewer**: Inspect high-quality textures in detail.
+
 **Group Management**: Group admins can share assets, allowing group members to download them easily.
+
 **Script Viewer**: Explore and edit scripts for game development.
+
 **Discord Bot**: Interact with Meshables via a Discord bot for notifications and asset management.
 
 ## Web & Discord Bot
